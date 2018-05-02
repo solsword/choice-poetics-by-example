@@ -9,7 +9,96 @@ date: Wednesday May 9th, 2018
 
 ## Choice Poetics
 
-# References
+- A formal framework for narrative choices
+- Concrete language for choice structures
+- A frame that creates edge cases
+
+::: notes
+- It focuses on discrete & explicit choices
+- It includes a process for analyzing choices mechanically
+- Defines parts of a choice like framing, options, and outcomes
+- If you don't like formalism, at least it's interesting to look at the kinds of choices that don't fit
+:::
+
+## Choice Poetics
+
+*"How does this choice impact the player experience?"*
+
+<div style="width: 50%; margin: auto; text-align: center;">
+<div class="fragment fade-out" style="position: absolute;" data-fragment-index=1>
+- Agency
+- Immersion
+- Regret?
+- etc.
+</div>
+<div class="fragment fade-in" style="position: absolute;" data-fragment-index=1>
+1. What are the player's goals?
+1. What outcomes are suggested? 
+1. What impacts do they have on player goals?
+1. (Afterwards) What were the actual outcomes? Their impacts?
+</div>
+</div>
+
+
+::: notes
+- The central question of choice poetics analysis
+- There are many dimensions of player experience
+- Agency is the one we usually think of, but choices can impact immersion, and might also be able to offer new kinds of emotion like regret, which a non-interactive work can't create in the same way
+- At a high level, these are the steps of a choice poetics analysis
+:::
+
+# Mass Effect
+
+---
+
+- Video Example
+
+---
+
+- Screenshots
+
+## False Choices
+
+- Multiple options lead to the same outcome
+- Desperate for the illusion of choice?
+
+## Choice Poetic Analysis
+
+\ 1. What are the player' goals? 
+
+- Goals here
+
+## Choice Poetic Analysis
+
+- Blah Blah
+
+## Choice Poetic Analysis
+
+- Modes of engagement
+    * Role-play
+        - Develop your character
+
+## Choice Poetic Analysis
+
+- These "false" choices have extra-digital character-building consequences
+
+---
+
+Screenshots again
+
+# Papers Please
+
+---
+
+- Screenshot? Video?
+
+---
+
+TODO HERE
+
+# Appendix
+
+## References
 
 - [*Towards a Theory of Choice Poetics*](http://www.fdg2014.org/papers/fdg2014_paper_19.pdf). Peter Mawhorter, Michael Mateas, Noah Wardrip-Fruin, and Arnav Jhala. Foundations of Digital Games, 2014.
 - [*Artificial Intelligence as a Tool for Understanding Narrative Choices*](https://escholarship.org/uc/item/1tn22145). Peter Mawhorter. Ph.D. Thesis, University of California Santa Cruz, 2016.
