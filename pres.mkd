@@ -9,9 +9,16 @@ date: Wednesday May 9th, 2018
 
 ## Choice Poetics
 
-- A formal framework for narrative choices
+<div class="columns">
+<div class="column" style="width: 25%;">
+![The cover of "The Cave of Time," the first Choose Your Own Adventure book.](fig/cave-of-time-cover.jpg)<span></span>
+</div>
+<div class="column" style="width: 75%; vertical-align: middle;">
+- A formal framework for understanding narrative choices
 - Concrete language for choice structures
 - A frame that creates edge cases
+</div>
+</div>
 
 ::: notes
 - It focuses on discrete & explicit choices
@@ -20,16 +27,31 @@ date: Wednesday May 9th, 2018
 - If you don't like formalism, at least it's interesting to look at the kinds of choices that don't fit
 :::
 
+---
+
+![Screenshots from Papers Please, Cave Story, The Walking Dead, and Depression Quest showing moments when choices are made.](fig/four-choices.png){width=75%}<span></span>
+
+::: notes
+- These are the kinds of choices that choice poetics is focused on...
+- 5-second slide
+:::
+
 ## Choice Poetics
 
 *"How does this choice impact the player experience?"*
 
-<div style="width: 50%; margin: auto; text-align: center;">
+<div class="columns">
+<div class="column" style="width: 40%;">
+![A close-up of the approve/deny visa stamps from Papers Please, hovering over a passport.](fig/papersplease.jpg)<span></span>
+</div>
+<div class="column" style="width: 60%;">
+<div style="margin: auto; text-align: center;">
 <div class="fragment fade-out" style="position: absolute;" data-fragment-index=1>
 - Agency
 - Immersion
 - Regret?
 - etc.
+</div>
 </div>
 <div class="fragment fade-in" style="position: absolute;" data-fragment-index=1>
 1. What are the player's goals?
@@ -38,11 +60,13 @@ date: Wednesday May 9th, 2018
 1. (Afterwards) What were the actual outcomes? Their impacts?
 </div>
 </div>
+</div>
 
 
 ::: notes
+(image here is just fluff; don't dive into that choice yet)
 - The central question of choice poetics analysis
-- There are many dimensions of player experience
+- There are many dimensions of player experience (these are just a few examples)
 - Agency is the one we usually think of, but choices can impact immersion, and might also be able to offer new kinds of emotion like regret, which a non-interactive work can't create in the same way
 - At a high level, these are the steps of a choice poetics analysis
 :::
@@ -53,20 +77,61 @@ date: Wednesday May 9th, 2018
 
 - Video Example
 
----
+::: notes
+No need to talk over the video I hope :)
+:::
 
-- Screenshots
+## {data-transition="slide-in fade-out"}
+
+![Frame from the previous video where the Salarian Councilor says "Do you have anything else to add, Commander Shepard?" and there are three options available. The options read: "You won't see the truth," "No," and "What's the point?"](fig/me-choice-framing.png){width=70%}<span></span>
+
+::: notes
+(next slide fades from this one)
+
+While clicking forward/back, explain that:
+- Two options with different text (they're framed differently)
+- In-game outcome is identical
+- But how the player interprets the PC's voiceover is altered by the text chosen (and we'll come back to this)
+- (player doesn't get a chance to revisit this choice without loading a save)
+:::
+
+## {data-transition="fade-in slide-out"}
+
+![Frame from the same video after making the choice where Commander Shepard says: "You've made your decision. I won't waste my breath."](fig/me-choice-result.png){width=70%}<span></span>
+
+<span></span>
 
 ## False Choices
 
 - Multiple options lead to the same outcome
 - Desperate for the illusion of choice?
+- Cite Fendt on illusion of agency?
+
+::: notes
+TODO
+:::
 
 ## Choice Poetic Analysis
 
-\ 1. What are the player' goals? 
+\ 1. What are the player's goals? 
 
-- Goals here
+<div class="columns">
+<div class="column">
+- Save the galaxy
+- Become powerful
+- Pursue romance
+- Protect your crew
+- Solve the mystery
+</div>
+<div class="column fragment">
+- Beat the game
+- TODO
+</div>
+</div>
+
+::: notes
+TODO
+:::
 
 ## Choice Poetic Analysis
 
