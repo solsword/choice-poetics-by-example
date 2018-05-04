@@ -151,10 +151,10 @@
   <property name="kdenlive:file_hash">2c105fbdae438bc326cb3cd15fc56fdd</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="4" in="0" out="149">
+ <producer id="7" in="0" out="149">
   <property name="length">150</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/pmawhorter/documents/council-neutral-f002360.png</property>
+  <property name="resource">council-neutral-f002360.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -162,14 +162,31 @@
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
   <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:duration">150</property>
   <property name="kdenlive:file_size">802311</property>
   <property name="kdenlive:file_hash">a7e128f491bcb0bf6a1b7dc689901788</property>
  </producer>
- <producer id="5" in="0" out="149">
-  <property name="length">150</property>
+ <producer id="8" in="0" out="175">
+  <property name="length">176</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/pmawhorter/documents/council-renegade-f002331.png</property>
+  <property name="resource">council-renegade-f002331.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">826235</property>
+  <property name="kdenlive:file_hash">021f90fe50bd2fdb53325c1ac2c3d99d</property>
+ </producer>
+ <producer id="9" in="0" out="196">
+  <property name="length">197</property>
+  <property name="eof">pause</property>
+  <property name="resource">council-neutral-f003109.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -178,8 +195,272 @@
   <property name="meta.media.height">1080</property>
   <property name="mlt_service">qimage</property>
   <property name="kdenlive:duration">150</property>
-  <property name="kdenlive:file_size">826235</property>
-  <property name="kdenlive:file_hash">021f90fe50bd2fdb53325c1ac2c3d99d</property>
+  <property name="kdenlive:file_size">803174</property>
+  <property name="kdenlive:file_hash">7b57c472596b2bddccddd3c9370b9def</property>
+ </producer>
+ <producer id="10" in="0" out="197">
+  <property name="length">198</property>
+  <property name="eof">pause</property>
+  <property name="resource">council-renegade-f003079.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">803432</property>
+  <property name="kdenlive:file_hash">42926d1fad190f88b3aa77ba970f91c9</property>
+ </producer>
+ <producer id="11" in="0" out="149">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource">council-neutral-f003794.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">1143934</property>
+  <property name="kdenlive:file_hash">1d7fbcf7fac772269b22459a04563187</property>
+ </producer>
+ <producer id="12" in="0" out="153">
+  <property name="length">154</property>
+  <property name="eof">pause</property>
+  <property name="resource">council-paragon-f004001.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">1155496</property>
+  <property name="kdenlive:file_hash">314b6ff550280c1dd0a39d013f0cf959</property>
+ </producer>
+ <producer title="Anonymous Submission" id="13" in="0" out="149">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">three-playthroughs</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" LC_NUMERIC="en_US.UTF-8" width="1920" height="1080" out="150">
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="411" y="925">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="44" font-outline-color="0,0,0,255" font="Cantarell" letter-spacing="0" font-pixel-size="36" font-italic="0" alignment="1" font-weight="50" font-outline="0" box-width="1097.83" font-color="255,255,255,255">This video shows three different playthroughs of the same cutscene.&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="force_reload">0</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="kdenlive:file_hash">b4e568d0cb03afb660d93dc86a5ba9aa</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer title="Anonymous Submission" id="14" in="0" out="149">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">pauses-to-let</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" LC_NUMERIC="en_US.UTF-8" width="1920" height="1080" out="150">
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="372" y="925">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="44" font="Cantarell" letter-spacing="0" font-pixel-size="36" font-italic="0" alignment="1" font-weight="50" box-width="1175.2" font-color="255,255,255,255">Each video makes different choices, and pauses to let the others catch up.&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">b4e568d0cb03afb660d93dc86a5ba9aa</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer title="Anonymous Submission" id="15" in="0" out="149">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">watch-differences</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" LC_NUMERIC="en_US.UTF-8" width="1920" height="1080" out="150">
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="442" y="925">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="44" font="Cantarell" letter-spacing="0" font-pixel-size="36" font-italic="0" alignment="1" font-weight="50" box-width="1035.67" font-color="255,255,255,255">Watch how some of the choices lead to the exact same outcome.&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">38b98fba2e997e413f4fc4659a4c3af3</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer title="Anonymous Submission" id="16" in="0" out="149">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">same-decision</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" LC_NUMERIC="en_US.UTF-8" width="1920" height="1080" out="150">
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="471" y="925">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="44" font="Cantarell" letter-spacing="0" font-pixel-size="36" font-italic="0" alignment="1" font-weight="50" box-width="978.766" font-color="255,255,255,255">All three playthroughs make the same decision at this choice.&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">a795ef87e0fa095254db51bbd81f8f23</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="17" in="0" out="221">
+  <property name="length">222</property>
+  <property name="eof">pause</property>
+  <property name="resource">council-neutral-f002124.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">1130759</property>
+  <property name="kdenlive:file_hash">0d4d77e3215288aae6c2999540157789</property>
+ </producer>
+ <producer id="19" in="0" out="200">
+  <property name="length">201</property>
+  <property name="eof">pause</property>
+  <property name="resource">council-paragon-f002129.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">1155609</property>
+  <property name="kdenlive:file_hash">6ea8790df62fc97ae54dc4dce5428516</property>
+ </producer>
+ <producer id="20" in="0" out="198">
+  <property name="length">199</property>
+  <property name="eof">pause</property>
+  <property name="resource">council-renegade-f002143.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:file_size">1113639</property>
+  <property name="kdenlive:file_hash">ee09637ce651c473b73d973810bd915f</property>
+ </producer>
+ <producer title="Anonymous Submission" id="21" in="0" out="149">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">here-different</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" LC_NUMERIC="en_US.UTF-8" width="1920" height="1080" out="150">
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="514" y="925">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="44" font="Cantarell" letter-spacing="0" font-pixel-size="36" font-italic="0" alignment="1" font-weight="50" box-width="891.234" font-color="255,255,255,255">At this choice, each video will make a different decision.&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">a795ef87e0fa095254db51bbd81f8f23</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer title="Anonymous Submission" id="22" in="0" out="149">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">watch-for</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" LC_NUMERIC="en_US.UTF-8" width="1920" height="1080" out="150">
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="583" y="925">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="44" font="Cantarell" letter-spacing="0" font-pixel-size="36" font-italic="0" alignment="1" font-weight="50" box-width="754.531" font-color="255,255,255,255">Despite this, two of the outcomes are identical.&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="force_reload">0</property>
+  <property name="kdenlive:file_hash">af731b3e263b7bf68b1f84e35bbb7e2c</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
  </producer>
  <playlist id="main bin">
   <property name="kdenlive:docproperties.audiotargettrack">2</property>
@@ -191,7 +472,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">18.04.0</property>
-  <property name="kdenlive:docproperties.position">2110</property>
+  <property name="kdenlive:docproperties.position">4596</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
@@ -201,14 +482,13 @@
   <property name="kdenlive:docproperties.proxyminsize">1000</property>
   <property name="kdenlive:docproperties.proxyparams">-vf yadif,scale=960:-2 -qscale 3 -vcodec mjpeg -acodec pcm_s16le</property>
   <property name="kdenlive:docproperties.version">0.96</property>
-  <property name="kdenlive:docproperties.verticalzoom">1</property>
-  <property name="kdenlive:docproperties.videotargettrack">3</property>
+  <property name="kdenlive:docproperties.verticalzoom">0</property>
+  <property name="kdenlive:docproperties.videotargettrack">4</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">100</property>
-  <property name="kdenlive:docproperties.zoom">4</property>
+  <property name="kdenlive:docproperties.zoom">8</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups"/>
-  <property name="kdenlive:guide.61.7951">00:01:01,24</property>
   <property name="kdenlive:guide.89.5895">00:01:29,17</property>
   <property name="kdenlive:guide.120.921">00:02:00,28</property>
   <property name="kdenlive:guide.147.247">00:02:27,07</property>
@@ -355,12 +635,26 @@
  &lt;/effect>
 &lt;/customeffects>
 </property>
+  <property name="kdenlive:guide.62.6626">00:01:01,24</property>
   <property name="xml_retain">1</property>
   <entry producer="1" in="0" out="4814"/>
   <entry producer="2" in="0" out="5049"/>
   <entry producer="3" in="0" out="4796"/>
-  <entry producer="4" in="0" out="149"/>
-  <entry producer="5" in="0" out="149"/>
+  <entry producer="7" in="0" out="149"/>
+  <entry producer="8" in="0" out="149"/>
+  <entry producer="9" in="0" out="149"/>
+  <entry producer="10" in="0" out="149"/>
+  <entry producer="11" in="0" out="149"/>
+  <entry producer="12" in="0" out="149"/>
+  <entry producer="13" in="0" out="149"/>
+  <entry producer="14" in="0" out="149"/>
+  <entry producer="15" in="0" out="149"/>
+  <entry producer="16" in="0" out="149"/>
+  <entry producer="17" in="0" out="149"/>
+  <entry producer="19" in="0" out="149"/>
+  <entry producer="20" in="0" out="149"/>
+  <entry producer="21" in="0" out="149"/>
+  <entry producer="22" in="0" out="149"/>
  </playlist>
  <producer id="black" in="0" out="500">
   <property name="length">15000</property>
@@ -371,7 +665,7 @@
   <property name="set.test_audio">0</property>
  </producer>
  <playlist id="black_track">
-  <entry producer="black" in="0" out="4414"/>
+  <entry producer="black" in="0" out="4596"/>
  </playlist>
  <playlist id="playlist1">
   <property name="kdenlive:audio_track">1</property>
@@ -380,6 +674,18 @@
  <playlist id="playlist2">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:track_name">Audio 1</property>
+ </playlist>
+ <playlist id="playlist0">
+  <property name="kdenlive:track_name">Video 0</property>
+  <blank length="34"/>
+  <entry producer="13" in="0" out="149"/>
+  <entry producer="14" in="0" out="149"/>
+  <entry producer="15" in="0" out="149"/>
+  <blank length="752"/>
+  <entry producer="16" in="0" out="149"/>
+  <blank length="420"/>
+  <entry producer="21" in="0" out="105"/>
+  <entry producer="22" in="20" out="111"/>
  </playlist>
  <producer title="Anonymous Submission" id="1_playlist3" in="0" out="4814">
   <property name="length">4815</property>
@@ -434,7 +740,7 @@
  </producer>
  <playlist id="playlist3">
   <property name="kdenlive:track_name">Video 1</property>
-  <entry producer="1_playlist3" in="320" out="2359">
+  <entry producer="1_playlist3" in="320" out="2125">
    <filter id="crop-edges">
     <property name="mlt_service">crop</property>
     <property name="kdenlive_id">crop-edges</property>
@@ -458,16 +764,16 @@
     <property name="kdenlive_ix">2</property>
     <property name="kdenlive_info"/>
     <property name="disable"/>
-    <property name="rect">0=-281 -85 1204 677 1</property>
-    <property name="rotation">0=0;88=0;320=0;2359=0</property>
+    <property name="rect">0=-281 201 1204 677 1</property>
+    <property name="rotation">0=0;88=0;320=0;2125=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
    </filter>
   </entry>
-  <entry producer="4" in="45" out="45">
-   <filter id="crop">
+  <entry producer="17" in="23" out="220">
+   <filter id="crop-image">
     <property name="mlt_service">crop</property>
-    <property name="kdenlive_id">crop</property>
+    <property name="kdenlive_id">crop-image</property>
     <property name="tag">crop</property>
     <property name="kdenlive_ix">1</property>
     <property name="top">0</property>
@@ -477,7 +783,6 @@
     <property name="center">0</property>
     <property name="center_bias">0</property>
     <property name="use_profile">0</property>
-    <property name="kdenlive_info"/>
    </filter>
    <filter id="t1">
     <property name="rotate_center">1</property>
@@ -487,13 +792,19 @@
     <property name="kdenlive_info"/>
     <property name="kdenlive_ix">2</property>
     <property name="disable"/>
-    <property name="rect">0=-281 -85 1204 677 1</property>
-    <property name="rotation">0=0;88=0;150=</property>
+    <property name="rect">0=-281 201 1204 677 1</property>
+    <property name="rotation">0=0;88=0;144=</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
    </filter>
+   <filter id="greyscale">
+    <property name="mlt_service">greyscale</property>
+    <property name="kdenlive_id">greyscale</property>
+    <property name="tag">greyscale</property>
+    <property name="kdenlive_ix">3</property>
+   </filter>
   </entry>
-  <entry producer="1_playlist3" in="2360" out="3109">
+  <entry producer="1_playlist3" in="2126" out="2202">
    <filter id="filter0">
     <property name="mlt_service">crop</property>
     <property name="kdenlive_id">crop-edges</property>
@@ -517,14 +828,13 @@
     <property name="kdenlive_ix">2</property>
     <property name="kdenlive_info"/>
     <property name="disable"/>
-    <property name="rect">0=-281 -85 1204 677 1</property>
-    <property name="rotation">0=0;88=0;320=0;2360=0;3109=0</property>
+    <property name="rect">0=-281 201 1204 677 1</property>
+    <property name="rotation">0=0;88=0;320=0;2126=0;2202=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
    </filter>
   </entry>
-  <blank length="196"/>
-  <entry producer="1_playlist3" in="3111" out="3794">
+  <entry producer="1_playlist3" in="2203" out="2359">
    <filter id="filter2">
     <property name="mlt_service">crop</property>
     <property name="kdenlive_id">crop-edges</property>
@@ -548,15 +858,42 @@
     <property name="kdenlive_ix">2</property>
     <property name="kdenlive_info"/>
     <property name="disable"/>
-    <property name="rect">0=-281 -85 1204 677 1</property>
-    <property name="rotation">0=0;88=0;320=0;2360=0;3111=0;3794=0</property>
+    <property name="rect">0=-281 0 1204 677 1</property>
+    <property name="rotation">0=0;88=0;320=0;2203=0;2359=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
    </filter>
   </entry>
-  <blank length="10"/>
-  <entry producer="1_playlist3" in="3795" out="4527">
+  <entry producer="7" in="0" out="0">
    <filter id="filter4">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop-image</property>
+    <property name="tag">crop</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="top">0</property>
+    <property name="left">450</property>
+    <property name="bottom">0</property>
+    <property name="right">450</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter5">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">t1</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_info"/>
+    <property name="kdenlive_ix">2</property>
+    <property name="disable"/>
+    <property name="rect">0=-281 0 1204 677 1</property>
+    <property name="rotation">0=0;1=</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="1_playlist3" in="2360" out="2360">
+   <filter id="filter6">
     <property name="mlt_service">crop</property>
     <property name="kdenlive_id">crop-edges</property>
     <property name="tag">crop</property>
@@ -571,7 +908,7 @@
     <property name="center_bias">0</property>
     <property name="use_profile">0</property>
    </filter>
-   <filter id="filter5">
+   <filter id="filter7">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -579,8 +916,250 @@
     <property name="kdenlive_ix">2</property>
     <property name="kdenlive_info"/>
     <property name="disable"/>
-    <property name="rect">0=-281 -85 1204 677 1</property>
-    <property name="rotation">0=0;88=0;320=0;2360=0;3111=0;3795=0;4527=0</property>
+    <property name="rect">0=-281 0 1204 677 1</property>
+    <property name="rotation">0=0;88=0;320=0;2360=0;2361=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="1_playlist3" in="2361" out="2361">
+   <filter id="filter8">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop-edges</property>
+    <property name="tag">crop</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="top">0</property>
+    <property name="left">150</property>
+    <property name="bottom">0</property>
+    <property name="right">150</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter9">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="rect">0=-281 201 1204 677 1</property>
+    <property name="rotation">0=0;88=0;320=0;2360=0;2361=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="1_playlist3" in="2362" out="3028">
+   <filter id="filter10">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop-edges</property>
+    <property name="tag">crop</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="top">0</property>
+    <property name="left">150</property>
+    <property name="bottom">0</property>
+    <property name="right">150</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter11">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="rect">0=-281 201 1204 677 1</property>
+    <property name="rotation">0=0;88=0;320=0;2360=0;2362=0;3028=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="1_playlist3" in="3027" out="3028">
+   <filter id="filter12">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop-edges</property>
+    <property name="tag">crop</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="top">0</property>
+    <property name="left">150</property>
+    <property name="bottom">0</property>
+    <property name="right">150</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter13">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="rect">0=-281 201 1204 677 1</property>
+    <property name="rotation">0=0;88=0;320=0;2360=0;3027=0;3028=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="1_playlist3" in="3029" out="3106">
+   <filter id="filter14">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop-edges</property>
+    <property name="tag">crop</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="top">0</property>
+    <property name="left">150</property>
+    <property name="bottom">0</property>
+    <property name="right">150</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter15">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="rect">0=-281 0 1204 677 1</property>
+    <property name="rotation">0=0;88=0;320=0;2360=0;2362=0;3029=0;3106=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="9" in="0" out="196">
+   <filter id="filter16">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop-image</property>
+    <property name="tag">crop</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="top">0</property>
+    <property name="left">450</property>
+    <property name="bottom">0</property>
+    <property name="right">450</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter17">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">t1</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_info"/>
+    <property name="kdenlive_ix">2</property>
+    <property name="disable"/>
+    <property name="rect">0=-281 0 1204 677 1</property>
+    <property name="rotation">0=0;88=0;196=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+   <filter id="filter18">
+    <property name="mlt_service">greyscale</property>
+    <property name="kdenlive_id">greyscale</property>
+    <property name="tag">greyscale</property>
+    <property name="kdenlive_ix">3</property>
+   </filter>
+  </entry>
+  <entry producer="1_playlist3" in="3111" out="3794">
+   <filter id="filter19">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop-edges</property>
+    <property name="tag">crop</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="top">0</property>
+    <property name="left">150</property>
+    <property name="bottom">0</property>
+    <property name="right">150</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter20">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="rect">0=-281 201 1204 677 1</property>
+    <property name="rotation">0=0;88=0;320=0;2360=0;3111=0;3794=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="11" in="140" out="149">
+   <filter id="filter21">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop-image</property>
+    <property name="tag">crop</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="top">0</property>
+    <property name="left">450</property>
+    <property name="bottom">0</property>
+    <property name="right">450</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter22">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">t1</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_info"/>
+    <property name="kdenlive_ix">2</property>
+    <property name="disable"/>
+    <property name="rect">0=-281 201 1204 677 1</property>
+    <property name="rotation">0=0;88=0;150=</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="1_playlist3" in="3795" out="4511">
+   <filter id="filter23">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop-edges</property>
+    <property name="tag">crop</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="top">0</property>
+    <property name="left">150</property>
+    <property name="bottom">0</property>
+    <property name="right">150</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter24">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="rect">0=-281 201 1204 677 1</property>
+    <property name="rotation">0=0;88=0;320=0;2360=0;3111=0;3795=0;4511=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
    </filter>
@@ -690,8 +1269,8 @@
  </producer>
  <playlist id="playlist4">
   <property name="kdenlive:track_name">Video 2</property>
-  <entry producer="2_playlist4" in="326" out="2366">
-   <filter id="filter6">
+  <entry producer="2_playlist4" in="326" out="2129">
+   <filter id="filter25">
     <property name="mlt_service">crop</property>
     <property name="kdenlive_id">crop-edges</property>
     <property name="tag">crop</property>
@@ -706,7 +1285,7 @@
     <property name="center_bias">0</property>
     <property name="use_profile">0</property>
    </filter>
-   <filter id="filter7">
+   <filter id="filter26">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -714,54 +1293,22 @@
     <property name="kdenlive_ix">2</property>
     <property name="kdenlive_info"/>
     <property name="disable"/>
-    <property name="rect">0=357 -85 1204 677 1</property>
-    <property name="rotation">0=0;100=0;326=0;2366=0</property>
+    <property name="rect">0=357 201 1204 677 1</property>
+    <property name="rotation">0=0;100=0;326=0;2129=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
    </filter>
   </entry>
-  <entry producer="2_playlist4" in="2367" out="2367">
-   <filter id="filter8">
+  <entry producer="19" in="0" out="199">
+   <filter id="filter27">
     <property name="mlt_service">crop</property>
-    <property name="kdenlive_id">crop-edges</property>
+    <property name="kdenlive_id">crop-image</property>
     <property name="tag">crop</property>
     <property name="kdenlive_ix">1</property>
-    <property name="kdenlive_info"/>
-    <property name="disable"/>
     <property name="top">0</property>
-    <property name="left">150</property>
+    <property name="left">450</property>
     <property name="bottom">0</property>
-    <property name="right">150</property>
-    <property name="center">0</property>
-    <property name="center_bias">0</property>
-    <property name="use_profile">0</property>
-   </filter>
-   <filter id="filter9">
-    <property name="rotate_center">1</property>
-    <property name="mlt_service">qtblend</property>
-    <property name="kdenlive_id">qtblend</property>
-    <property name="tag">qtblend</property>
-    <property name="kdenlive_ix">2</property>
-    <property name="kdenlive_info"/>
-    <property name="disable"/>
-    <property name="rect">0=357 -85 1204 677 1</property>
-    <property name="rotation">0=0;100=0;326=0;2367=0;3311=0</property>
-    <property name="compositing">0</property>
-    <property name="distort">0</property>
-   </filter>
-  </entry>
-  <entry producer="3_playlist4" in="2332" out="2332">
-   <filter id="filter10">
-    <property name="mlt_service">crop</property>
-    <property name="kdenlive_id">crop-edges</property>
-    <property name="tag">crop</property>
-    <property name="kdenlive_ix">1</property>
-    <property name="kdenlive_info"/>
-    <property name="disable"/>
-    <property name="top">0</property>
-    <property name="left">150</property>
-    <property name="bottom">0</property>
-    <property name="right">150</property>
+    <property name="right">450</property>
     <property name="center">0</property>
     <property name="center_bias">0</property>
     <property name="use_profile">0</property>
@@ -774,14 +1321,110 @@
     <property name="kdenlive_info"/>
     <property name="kdenlive_ix">2</property>
     <property name="disable"/>
-    <property name="rect">0=357 -85 1204 677 1</property>
+    <property name="rect">0=357 201 1204 677 1</property>
+    <property name="rotation">0=0;100=0;123=</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+   <filter id="filter28">
+    <property name="mlt_service">greyscale</property>
+    <property name="kdenlive_id">greyscale</property>
+    <property name="tag">greyscale</property>
+    <property name="kdenlive_ix">3</property>
+   </filter>
+  </entry>
+  <entry producer="2_playlist4" in="2132" out="2209">
+   <filter id="filter29">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop-edges</property>
+    <property name="tag">crop</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="top">0</property>
+    <property name="left">150</property>
+    <property name="bottom">0</property>
+    <property name="right">150</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter30">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="rect">0=357 201 1204 677 1</property>
+    <property name="rotation">0=0;100=0;326=0;2132=0;2209=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="2_playlist4" in="2210" out="2366">
+   <filter id="filter31">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop-edges</property>
+    <property name="tag">crop</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="top">0</property>
+    <property name="left">150</property>
+    <property name="bottom">0</property>
+    <property name="right">150</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter32">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="rect">0=357 0 1204 677 1</property>
+    <property name="rotation">0=0;100=0;326=0;2210=0;2366=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="2_playlist4" in="2367" out="2367">
+   <filter id="filter33">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop-edges</property>
+    <property name="tag">crop</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="top">0</property>
+    <property name="left">150</property>
+    <property name="bottom">0</property>
+    <property name="right">150</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter34">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">t2</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_info"/>
+    <property name="kdenlive_ix">2</property>
+    <property name="disable"/>
+    <property name="rect">0=357 0 1204 677 1</property>
     <property name="rotation">0=0;100=0;326=0;2366=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
    </filter>
   </entry>
-  <entry producer="2_playlist4" in="2368" out="3311">
-   <filter id="filter11">
+  <entry producer="3_playlist4" in="2332" out="2332">
+   <filter id="filter35">
     <property name="mlt_service">crop</property>
     <property name="kdenlive_id">crop-edges</property>
     <property name="tag">crop</property>
@@ -796,7 +1439,37 @@
     <property name="center_bias">0</property>
     <property name="use_profile">0</property>
    </filter>
-   <filter id="filter12">
+   <filter id="filter36">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">t2</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_info"/>
+    <property name="kdenlive_ix">2</property>
+    <property name="disable"/>
+    <property name="rect">0=357 201 1204 677 1</property>
+    <property name="rotation">0=0;100=0;326=0;2333=</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="2_playlist4" in="2368" out="3035">
+   <filter id="filter37">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop-edges</property>
+    <property name="tag">crop</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="top">0</property>
+    <property name="left">150</property>
+    <property name="bottom">0</property>
+    <property name="right">150</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter38">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -804,14 +1477,74 @@
     <property name="kdenlive_ix">2</property>
     <property name="kdenlive_info"/>
     <property name="disable"/>
-    <property name="rect">0=357 -85 1204 677 1</property>
-    <property name="rotation">0=0;100=0;326=0;2367=0;2368=0;3311=0</property>
+    <property name="rect">0=357 201 1204 677 1</property>
+    <property name="rotation">0=0;100=0;326=0;2367=0;2368=0;3035=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="2_playlist4" in="3035" out="3035">
+   <filter id="filter39">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop-edges</property>
+    <property name="tag">crop</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="top">0</property>
+    <property name="left">150</property>
+    <property name="bottom">0</property>
+    <property name="right">150</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter40">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="rect">0=357 201 1204 677 1</property>
+    <property name="rotation">0=0;100=0;326=0;2367=0;3035=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="2_playlist4" in="3037" out="3311">
+   <filter id="filter41">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop-edges</property>
+    <property name="tag">crop</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="top">0</property>
+    <property name="left">150</property>
+    <property name="bottom">0</property>
+    <property name="right">150</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter42">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="rect">0=357 403 1204 677 1</property>
+    <property name="rotation">0=0;100=0;326=0;2367=0;2368=0;3037=0;3311=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
    </filter>
   </entry>
   <entry producer="2_playlist4" in="3312" out="4000">
-   <filter id="filter13">
+   <filter id="filter43">
     <property name="mlt_service">crop</property>
     <property name="kdenlive_id">crop-edges</property>
     <property name="tag">crop</property>
@@ -826,7 +1559,7 @@
     <property name="center_bias">0</property>
     <property name="use_profile">0</property>
    </filter>
-   <filter id="filter14">
+   <filter id="filter44">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -834,15 +1567,42 @@
     <property name="kdenlive_ix">2</property>
     <property name="kdenlive_info"/>
     <property name="disable"/>
-    <property name="rect">0=357 -85 1204 677 1</property>
+    <property name="rect">0=357 201 1204 677 1</property>
     <property name="rotation">0=0;100=0;326=0;2367=0;3312=0;4000=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
    </filter>
   </entry>
-  <blank length="5"/>
-  <entry producer="2_playlist4" in="4001" out="4733">
-   <filter id="filter15">
+  <entry producer="12" in="148" out="152">
+   <filter id="filter45">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop-image</property>
+    <property name="tag">crop</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="top">0</property>
+    <property name="left">450</property>
+    <property name="bottom">0</property>
+    <property name="right">450</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter46">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">t2</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_info"/>
+    <property name="kdenlive_ix">2</property>
+    <property name="disable"/>
+    <property name="rect">0=357 201 1204 677 1</property>
+    <property name="rotation">0=0;100=0;152=</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="2_playlist4" in="4001" out="4717">
+   <filter id="filter47">
     <property name="mlt_service">crop</property>
     <property name="kdenlive_id">crop-edges</property>
     <property name="tag">crop</property>
@@ -857,7 +1617,7 @@
     <property name="center_bias">0</property>
     <property name="use_profile">0</property>
    </filter>
-   <filter id="filter16">
+   <filter id="filter48">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -865,8 +1625,8 @@
     <property name="kdenlive_ix">2</property>
     <property name="kdenlive_info"/>
     <property name="disable"/>
-    <property name="rect">0=357 -85 1204 677 1</property>
-    <property name="rotation">0=0;100=0;326=0;2367=0;3312=0;4001=0;4733=0</property>
+    <property name="rect">0=357 201 1204 677 1</property>
+    <property name="rotation">0=0;100=0;326=0;2367=0;3312=0;4001=0;4717=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
    </filter>
@@ -925,8 +1685,8 @@
  </producer>
  <playlist id="playlist5">
   <property name="kdenlive:track_name">Video 3</property>
-  <entry producer="3_playlist5" in="337" out="2331">
-   <filter id="filter17">
+  <entry producer="3_playlist5" in="337" out="2142">
+   <filter id="filter49">
     <property name="mlt_service">crop</property>
     <property name="kdenlive_id">crop-edges</property>
     <property name="tag">crop</property>
@@ -941,7 +1701,7 @@
     <property name="center_bias">0</property>
     <property name="use_profile">0</property>
    </filter>
-   <filter id="filter18">
+   <filter id="filter50">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -949,14 +1709,14 @@
     <property name="kdenlive_ix">2</property>
     <property name="kdenlive_info"/>
     <property name="disable"/>
-    <property name="rect">0=994 -82 1204 677 1</property>
-    <property name="rotation">0=0;110=0;337=0;2331=0</property>
+    <property name="rect">0=994 201 1204 677 1</property>
+    <property name="rotation">0=0;110=0;337=0;2142=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
    </filter>
   </entry>
-  <entry producer="5" in="0" out="46">
-   <filter id="crop-image">
+  <entry producer="20" in="0" out="197">
+   <filter id="filter51">
     <property name="mlt_service">crop</property>
     <property name="kdenlive_id">crop-image</property>
     <property name="tag">crop</property>
@@ -977,14 +1737,114 @@
     <property name="kdenlive_info"/>
     <property name="kdenlive_ix">2</property>
     <property name="disable"/>
-    <property name="rect">0=994 -82 1204 677 1</property>
-    <property name="rotation">0=0;45=</property>
+    <property name="rect">0=994 201 1204 677 1</property>
+    <property name="rotation">0=0;110=0;121=</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
+   </filter>
+   <filter id="filter52">
+    <property name="mlt_service">greyscale</property>
+    <property name="kdenlive_id">greyscale</property>
+    <property name="tag">greyscale</property>
+    <property name="kdenlive_ix">3</property>
+   </filter>
+  </entry>
+  <entry producer="3_playlist5" in="2143" out="2221">
+   <filter id="filter53">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop-edges</property>
+    <property name="tag">crop</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="top">0</property>
+    <property name="left">150</property>
+    <property name="bottom">0</property>
+    <property name="right">150</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter54">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="rect">0=994 201 1204 677 1</property>
+    <property name="rotation">0=0;110=0;337=0;2143=0;2221=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="3_playlist5" in="2222" out="2331">
+   <filter id="filter55">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop-edges</property>
+    <property name="tag">crop</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="top">0</property>
+    <property name="left">150</property>
+    <property name="bottom">0</property>
+    <property name="right">150</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter56">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="rect">0=994 403 1204 677 1</property>
+    <property name="rotation">0=0;110=0;337=0;2222=0;2331=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="8" in="128" out="174">
+   <filter id="filter57">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop-image</property>
+    <property name="tag">crop</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="top">0</property>
+    <property name="left">450</property>
+    <property name="bottom">0</property>
+    <property name="right">450</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter58">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">t3</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_info"/>
+    <property name="kdenlive_ix">2</property>
+    <property name="disable"/>
+    <property name="rect">0=994 403 1204 677 1</property>
+    <property name="rotation">0=0;110=0;175=</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+   <filter id="filter59">
+    <property name="mlt_service">greyscale</property>
+    <property name="kdenlive_id">greyscale</property>
+    <property name="tag">greyscale</property>
+    <property name="kdenlive_ix">3</property>
    </filter>
   </entry>
   <entry producer="3_playlist5" in="2332" out="2332">
-   <filter id="filter19">
+   <filter id="filter60">
     <property name="mlt_service">crop</property>
     <property name="kdenlive_id">crop-edges</property>
     <property name="tag">crop</property>
@@ -999,22 +1859,22 @@
     <property name="center_bias">0</property>
     <property name="use_profile">0</property>
    </filter>
-   <filter id="filter20">
+   <filter id="filter61">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
-    <property name="kdenlive_id">qtblend</property>
+    <property name="kdenlive_id">t3</property>
     <property name="tag">qtblend</property>
-    <property name="kdenlive_ix">2</property>
     <property name="kdenlive_info"/>
+    <property name="kdenlive_ix">2</property>
     <property name="disable"/>
-    <property name="rect">0=994 -82 1204 677 1</property>
-    <property name="rotation">0=0;110=0;337=0;2332=0;3079=0</property>
+    <property name="rect">0=994 201 1204 677 1</property>
+    <property name="rotation">0=0;110=0;337=0;2331=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
    </filter>
   </entry>
-  <entry producer="3_playlist5" in="2333" out="3079">
-   <filter id="filter21">
+  <entry producer="3_playlist5" in="2333" out="3001">
+   <filter id="filter62">
     <property name="mlt_service">crop</property>
     <property name="kdenlive_id">crop-edges</property>
     <property name="tag">crop</property>
@@ -1029,7 +1889,7 @@
     <property name="center_bias">0</property>
     <property name="use_profile">0</property>
    </filter>
-   <filter id="filter22">
+   <filter id="filter63">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -1037,15 +1897,78 @@
     <property name="kdenlive_ix">2</property>
     <property name="kdenlive_info"/>
     <property name="disable"/>
-    <property name="rect">0=994 -82 1204 677 1</property>
-    <property name="rotation">0=0;110=0;337=0;2332=0;2333=0;3079=0</property>
+    <property name="rect">0=994 201 1204 677 1</property>
+    <property name="rotation">0=0;110=0;337=0;2332=0;2333=0;3001=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
    </filter>
   </entry>
-  <blank length="197"/>
+  <entry producer="3_playlist5" in="3002" out="3079">
+   <filter id="filter64">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop-edges</property>
+    <property name="tag">crop</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="top">0</property>
+    <property name="left">150</property>
+    <property name="bottom">0</property>
+    <property name="right">150</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter65">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="kdenlive_info"/>
+    <property name="disable"/>
+    <property name="rect">0=994 0 1204 677 1</property>
+    <property name="rotation">0=0;110=0;337=0;2332=0;2333=0;3002=0;3079=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+  </entry>
+  <entry producer="10" in="0" out="196">
+   <filter id="filter66">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop-image</property>
+    <property name="tag">crop</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="top">0</property>
+    <property name="left">450</property>
+    <property name="bottom">0</property>
+    <property name="right">450</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+   </filter>
+   <filter id="filter67">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">t3</property>
+    <property name="tag">qtblend</property>
+    <property name="kdenlive_info"/>
+    <property name="kdenlive_ix">2</property>
+    <property name="disable"/>
+    <property name="rect">0=994 0 1204 677 1</property>
+    <property name="rotation">0=0;110=0;197=</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+   </filter>
+   <filter id="filter68">
+    <property name="mlt_service">greyscale</property>
+    <property name="kdenlive_id">greyscale</property>
+    <property name="tag">greyscale</property>
+    <property name="kdenlive_ix">3</property>
+   </filter>
+  </entry>
   <entry producer="3_playlist5" in="3081" out="3774">
-   <filter id="filter23">
+   <filter id="filter69">
     <property name="mlt_service">crop</property>
     <property name="kdenlive_id">crop-edges</property>
     <property name="tag">crop</property>
@@ -1060,7 +1983,7 @@
     <property name="center_bias">0</property>
     <property name="use_profile">0</property>
    </filter>
-   <filter id="filter24">
+   <filter id="filter70">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -1068,14 +1991,14 @@
     <property name="kdenlive_ix">2</property>
     <property name="kdenlive_info"/>
     <property name="disable"/>
-    <property name="rect">0=994 -82 1204 677 1</property>
+    <property name="rect">0=994 201 1204 677 1</property>
     <property name="rotation">0=0;110=0;337=0;2332=0;3081=0;3774=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
    </filter>
   </entry>
-  <entry producer="3_playlist5" in="3775" out="4507">
-   <filter id="filter25">
+  <entry producer="3_playlist5" in="3775" out="4491">
+   <filter id="filter71">
     <property name="mlt_service">crop</property>
     <property name="kdenlive_id">crop-edges</property>
     <property name="tag">crop</property>
@@ -1090,7 +2013,7 @@
     <property name="center_bias">0</property>
     <property name="use_profile">0</property>
    </filter>
-   <filter id="filter26">
+   <filter id="filter72">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -1098,17 +2021,18 @@
     <property name="kdenlive_ix">2</property>
     <property name="kdenlive_info"/>
     <property name="disable"/>
-    <property name="rect">0=994 -82 1204 677 1</property>
-    <property name="rotation">0=0;110=0;337=0;2332=0;3081=0;3775=0;4507=0</property>
+    <property name="rect">0=994 201 1204 677 1</property>
+    <property name="rotation">0=0;110=0;337=0;2332=0;3081=0;3775=0;4491=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
    </filter>
   </entry>
  </playlist>
- <tractor title="Anonymous Submission" id="maintractor" global_feed="1" in="0" out="4414">
+ <tractor title="Anonymous Submission" id="maintractor" global_feed="1" in="0" out="4596">
   <track producer="black_track"/>
   <track hide="video" producer="playlist1"/>
   <track hide="video" producer="playlist2"/>
+  <track producer="playlist0"/>
   <track producer="playlist3"/>
   <track producer="playlist4"/>
   <track producer="playlist5"/>
@@ -1138,16 +2062,15 @@
   </transition>
   <transition id="transition3">
    <property name="a_track">0</property>
-   <property name="b_track">3</property>
-   <property name="compositing">0</property>
-   <property name="distort">0</property>
-   <property name="rotate_center">0</property>
-   <property name="mlt_service">qtblend</property>
+   <property name="b_track">4</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
    <property name="internal_added">237</property>
   </transition>
   <transition id="transition4">
    <property name="a_track">0</property>
-   <property name="b_track">4</property>
+   <property name="b_track">5</property>
    <property name="mlt_service">mix</property>
    <property name="always_active">1</property>
    <property name="sum">1</property>
@@ -1155,28 +2078,50 @@
   </transition>
   <transition id="transition5">
    <property name="a_track">0</property>
-   <property name="b_track">4</property>
-   <property name="compositing">0</property>
-   <property name="distort">0</property>
-   <property name="rotate_center">0</property>
-   <property name="mlt_service">qtblend</property>
-   <property name="internal_added">237</property>
-  </transition>
-  <transition id="transition6">
-   <property name="a_track">0</property>
-   <property name="b_track">5</property>
+   <property name="b_track">6</property>
    <property name="mlt_service">mix</property>
    <property name="always_active">1</property>
    <property name="sum">1</property>
    <property name="internal_added">237</property>
   </transition>
+  <transition id="transition6">
+   <property name="a_track">0</property>
+   <property name="b_track">3</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="always_active">1</property>
+   <property name="internal_added">237</property>
+  </transition>
   <transition id="transition7">
+   <property name="a_track">0</property>
+   <property name="b_track">4</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="always_active">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition8">
    <property name="a_track">0</property>
    <property name="b_track">5</property>
    <property name="compositing">0</property>
    <property name="distort">0</property>
    <property name="rotate_center">0</property>
    <property name="mlt_service">qtblend</property>
+   <property name="always_active">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition9">
+   <property name="a_track">0</property>
+   <property name="b_track">6</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="always_active">1</property>
    <property name="internal_added">237</property>
   </transition>
  </tractor>

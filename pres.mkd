@@ -75,10 +75,15 @@ date: Wednesday May 9th, 2018
 
 ---
 
-- Video Example
+<video width="100%" controls="" autoplay="true" preload="auto">
+<source src="vid/me-council-branches.mp4" type="video/mp4">
+<p>Your user agent does not support the HTML5 Video element.</p>
+</video>
 
 ::: notes
 No need to talk over the video I hope :)
+
+It runs 2:33. The next slides re-visit the final decision, where all three options lead to the same outcome.
 :::
 
 ## {data-transition="slide-in fade-out"}
