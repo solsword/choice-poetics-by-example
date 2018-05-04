@@ -103,9 +103,16 @@ While clicking forward/back, explain that:
 
 ## False Choices
 
-- Multiple options lead to the same outcome
-- Desperate for the illusion of choice?
-- Cite Fendt on illusion of agency?
+- Multiple options, one outcome
+- Why have a choice at all?
+    * Preserve illusion of player agency?
+    * Time/money constraints?
+
+\ 
+
+<p class="small" style="text-align: left;">
+[*Achieving the Illusion of Agency*](http://stephengware.com/publications/fendt2012achieving.pdf). Matthew W. Fendt, Brent Harrison, Stephen G. Ware, Rogelio Cardona-Rivera, and David L. Roberts. Interactive Storytelling, 2012.
+</p>
 
 ::: notes
 TODO
@@ -115,51 +122,227 @@ TODO
 
 \ 1. What are the player's goals? 
 
-<div class="columns">
-<div class="column">
+<div class="columns nowrap" style="width: 100%;">
+<div class="column" style="width: 50%;">
 - Save the galaxy
 - Become powerful
 - Pursue romance
 - Protect your crew
 - Solve the mystery
+
+<p class="question fragment" data-fragment-index="2">
+Diegetic
+</p>
 </div>
-<div class="column fragment">
+<div class="column fragment" data-fragment-index="1" style="width: 50%;">
 - Beat the game
-- TODO
+- Explore all the options
+- <span class="fragment highlight-bold" data-fragment-index="3">Act out a story</span>
+- Critique the design
+- Show off for your friend
+
+<p class="question fragment" data-fragment-index="2">
+Extra-diegetic
+</p>
 </div>
 </div>
 
 ::: notes
-TODO
+This slide has 3 transitions:
+
+1. adds second column
+2. adds diegetic labels
+3. highlights "act out a story"
+
+Idea is roughly:
+
+"So here are some goals that we might imagine players would have in Mass Effect, things like saving the galaxy or pursuing a romance, but if we think about it, there are also some other goals that players might have -click-, like exploring the story or showing off for a friend. We can divide these -click- into diegetic and extra-diegetic goals, or more precisely between different modes of engagement with the game, such as power play or role play. What's interesting in the context of this choice is this idea of role-play, however: the extra-diegetic goal of acting out a specific story through gameplay. If we think about a player that wants to portray their character as having a certain personality, then this false choice suddenly seems to have meaningful consequences. -next slide-"
 :::
 
 ## Choice Poetic Analysis
 
-- Blah Blah
+<div class="nowrap" style="width: 55%; text-align: left; margin: auto;">
+2. What outcomes are suggested?
+3. What impacts do they have?
+4. What were the actual outcomes?
+</div>
 
-## Choice Poetic Analysis
+<div style="width: 70%; height: 0pt; margin: 12pt auto; border-bottom: 1.5pt solid black;"></div>
 
-- Modes of engagement
-    * Role-play
-        - Develop your character
+<div class="fragment" style="width: 55%; text-align: left; margin: auto;">
 
-## Choice Poetic Analysis
+- No actual impact on diegetic goals<br/>
+  (game variables are unchanged)
+- Does impact portrayal of Shepard's personality
+</div>
 
-- These "false" choices have extra-digital character-building consequences
+::: notes
+We're compressing steps quite a bit, just to focus on a single impact: the effect these choices have on role-playing.
+:::
 
 ---
 
-Screenshots again
+![Frame from the previous video where the Salarian Councilor says "Do you have anything else to add, Commander Shepard?" and there are three options available. The options read: "You won't see the truth," "No," and "What's the point?"](fig/me-choice-framing-cropped.png){width=40%}\ \ \ \ \ \ \ \ \ \ \ \ ![Frame from the same video after making the choice where Commander Shepard says: "You've made your decision. I won't waste my breath."](fig/me-choice-result-cropped.png){width=40%}
+
+::: notes
+These images again to discuss briefly how the different options portray different personalities. My take:
+
+"You won't see the truth" -> open defiance
+"No" -> resignation
+"What's the point" -> passive defiance
+
+The text (never spoken by the voice actor) can be thought of as what the character is thinking as they say their spoken dialogue.
+
+To me, it's comparable to interior monologue in a novel.
+:::
+
+## Takeaways
+
+<div class="nowrap">
+- Modes of engagement and player goals are important
+    * They are personal and dynamic
+    * Designers can guess them and influence them
+- Even "false" choices have consequences
+    * Players build narratives beyond system limitations
+</div>
+
+::: notes
+Speaking points here are hopefully obvious
+
+The last point is just to emphasize that in ME, there are some role-playing choices that the system recognizes with Paragon/Renegade points, but even those choices that are outside that system are still valid and help give the player more control over the narrative, and it's fine for both types of choice to coexist.
+:::
+
 
 # Papers Please
 
 ---
 
-- Screenshot? Video?
+![A screenshot of Papers Please, in which a refugee pleads to be granted entry despite lacking the required permit. On the left, the approve/deny stamp hovers over the traveler's passport, while in the center there is some text dialogue from the petitioner (shown on the left) and an interface for asking questions.](fig/papers-please-visa-choice.png){width=80%}<span></span>
 
----
+::: notes
+A slide to describe a bit about the game, and how it forces you to make difficult choices, pitting your income + support for your family against the impulse to support desperate but possibly mendacious applicants.
 
-TODO HERE
+Explain that we'll use this game to show off a more detailed + mechanical analysis process.
+:::
+
+## Goal Analysis
+
+\ 1. What are the player's goals? 
+
+<div style="width: 70%; height: 0pt; margin: 12pt auto; border-bottom: 1.5pt solid black;"></div>
+
+<div class="nowrap">
+- [highest] Feed your family.
+- [high] Avoid the penalty for making mistakes.
+- [high] Treat travelers ethically.
+- [medium] Prevent dishonest travelers from gaining entry.
+- [low] Let approved travelers through.
+</div>
+
+::: notes
+This slide is a bit abrupt, but you can hand-wave and say that we're now going to use this made-up set of example goals to illustrate how this choice operates.
+
+Each goal has a priority, and provides a chance to explain a bit about the game mechanics as you go through.
+:::
+
+## Likelihood Analysis
+
+\ 2. What outcomes are suggested?
+
+<div class="booktable center-headers">
+
+**Approve**                               **Deny**
+-------------                             ----------
+[likely] 'Mistake' is discovered.          [likely] No mistake possible.
+[unknown] Refugee is saved.                [unknown] Refugee will be killed.
+[unknown] Criminal gains entry.            [unknown] Criminal is thwarted.
+[unlikely] Earn a credit.                  [likely] Earn a credit.
+
+</div>
+
+::: notes
+This step focuses on estimating the likelihood of outcomes from the player's perspective. Here we model a player who is uncertain whether the refugee is actually a criminal and just making up their story.
+:::
+
+## Option Analysis {data-transition="slide-in fade-out"}
+
+\ 3. What impacts do the outcomes have on player goals?
+
+<div style="width: 70%; height: 0pt; margin: 12pt auto; border-bottom: 1.5pt solid black;"></div>
+
+<div class="nowrap">
+- Four broad categories:
+    * <span class="enables">Enables</span> and <span class="threatens">threatens</span> for uncertain effects.
+    * <span class="advances">Advances</span> and <span class="hinders">hinders</span> for likely effects.
+- Each goal/outcome pair may have multiple labels.
+</div>
+
+## Option Analysis {data-transition="fade-in fade-out"}
+
+\ 3. What impacts do the outcomes have on player goals?
+
+<div class="booktable center-headers divide-rows">
+
+**Goal**                    **Approve**                                                                                                                                                     **Deny**
+---------                   -------------                                                                                                                                                   ----------
+&lt;feed your family&gt;    <span class="enables">enables</span><br/><span class="threatens">threatens</span><br/><span class="hinders">hinders</span>                                      <span class="enables">enables</span><br/><span class="advances">advances</span>
+&lt;avoid penalty&gt;       <span class="enables">enables</span><br/><span class="threatens">threatens</span><br/><span class="hinders">hinders</span>                                      <span class="enables">enables</span><br/><span class="advances">advances</span>
+&lt;treat ethically&gt;     <span class="enables">enables</span>                                                                                                                            <span class="enables">enables</span><br/><span class="threatens">threatens</span>
+&lt;thwart criminals&gt;    <span class="threatens">threatens</span>                                                                                                                        <span class="enables">enables</span>
+
+</div>
+
+::: notes
+So if we grind through evaluating all of the outcomes, we get this table for their impacts on player goals. Notice here that Deny is a clearly better option than approve: we're a bit concerned we may not be treating someone ethically, but we aren't sure about that, and the probable impacts to our family are obvious.
+
+But now what would the situation be like if we trusted that the petitioner was telling the truth? -next slide-
+:::
+
+## Option Analysis {data-transition="fade-in slide-out"}
+
+\ 3. What impacts do the outcomes have on player goals?
+
+<div class="booktable center-headers divide-rows">
+
+**Goal**                    **Approve**                                                                                                                                                     **Deny**
+---------                   -------------                                                                                                                                                   ----------
+&lt;feed your family&gt;    <span class="enables">enables</span><br/><span class="threatens">threatens</span><br/><span class="hinders">hinders</span>                                      <span class="enables">enables</span><br/><span class="advances">advances</span>
+&lt;avoid penalty&gt;       <span class="enables">enables</span><br/><span class="threatens">threatens</span><br/><span class="hinders">hinders</span>                                      <span class="enables">enables</span><br/><span class="advances">advances</span>
+&lt;treat ethically&gt;     <span class="enables">enables</span><br/><span class="advances">advances</span>                                                                                 <span class="threatens">threatens</span><br/><span class="hinders">hinders</span>
+&lt;thwart criminals&gt;    *none*                                                                                                                                                          *none*
+
+</div>
+
+<div style="position: absolute; top: 50%; left: 75%; transform: rotate(-60deg); white-space: nowrap;">
+↖ If we trust the applicant...
+</div>
+
+::: notes
+So these are the changes if we assume that the applicant is telling the truth about being a refugee: notice how suddenly, we have a hinders in both columns, and that arrangement is recognizable as a component of the dilemma pattern of choice structures.
+
+Of course, an classical dilemma wouldn't have redeeming features for either option, but we can at least say that the choice has become a difficult one, which we'll be much less comfortable making.
+
+So what this analysis tells us is that Papers Please is using a very specific choice formula as a rhetorical gesture: it is demonstrating to the player how ethical dilemmas, when seasoned with just a bit of uncertainty, can lead to complicit decisions. -next slide-
+:::
+
+## Takeaways
+
+<div class="nowrap">
+- **Dilemma** + **doubt** = **complicity**
+    * *Papers Please* lets players engage with this directly
+    * Repeated uneasy choices build the dystopian atmosphere
+- Detailed choice analysis can yield useful insights
+    * Labeling goals × options reveals choice structure
+    * Could repeat with different imagined player goals
+</div>
+
+::: notes
+We don't have time to go through the outcomes analysis for this choice, but the player never really learns in Papers Please whether the person that they let through was telling the truth or not, which is how the game maintains ambiguity about these decisions.
+
+The main point of this analysis is to show how uncertainty changes the decision landscape for our hypothetical player, and how it turns a difficult decision into an easier decision, where the best option is aligned with the interests of the (fictional) state, because the outcomes for your family are always more immediate and certain than the outcomes for the petitioners you are approving or denying.
+:::
+
+# Questions?
 
 # Appendix
 

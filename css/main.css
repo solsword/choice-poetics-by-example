@@ -161,15 +161,15 @@
 }
 
 .reveal ol li:first-child, .reveal ul li:first-child {
-  margin-top: 0px;
+  margin-top: 12pt;
 }
 
 .reveal ol li:last-child, .reveal ul li:last-child {
-  margin-bottom: 0px;
+  margin-bottom: 12pt;
 }
 
 .reveal li {
-  margin: 22pt 0;
+  margin: 16pt 0;
 }
 
 .reveal img.pixels {
@@ -182,3 +182,76 @@
   -ms-interpolation-mode: nearest-neighbor;  /* IE8+                          */
 }
 
+.reveal .nowrap * {
+  white-space: nowrap;
+}
+
+.reveal .slides section .fragment.highlight-bold {
+  opacity: 1;
+  visibility: inherit;
+}
+
+.reveal .slides section .fragment.highlight-bold.visible {
+  opacity: 1;
+  visibility: inherit;
+  font-weight: bold;
+}
+
+.reveal .slides section .fragment.highlight-underline {
+  opacity: 1;
+  visibility: inherit;
+}
+
+.reveal .slides section .fragment.highlight-underline.visible {
+  opacity: 1;
+  visibility: inherit;
+  text-decoration: underline;
+}
+
+.reveal .booktable table {
+  border-collapse: collapse;
+  border-top: 2pt solid black;
+  border-bottom: 2pt solid black;
+}
+
+.reveal .booktable table thead {
+  border-bottom: 1.5pt solid black;
+}
+
+.reveal .booktable.divide-rows table thead th, .reveal .booktable.divide-rows table tbody tr {
+  border-top: 1.5pt solid black;
+  border-bottom: 1.5pt solid black;
+}
+
+.reveal .booktable.center-headers table thead th {
+  text-align: center !important;
+}
+
+.reveal .booktable table tr {
+  border: none;
+}
+
+.reveal .booktable table tr td {
+  border: none;
+  vertical-align: middle;
+}
+
+.reveal .enables {
+  font-weight: bold;
+  color: #0ad;
+}
+
+.reveal .threatens {
+  font-weight: bold;
+  color: #da0;
+}
+
+.reveal .advances {
+  font-weight: bold;
+  color: #03a;
+}
+
+.reveal .hinders {
+  font-weight: bold;
+  color: #910;
+}
