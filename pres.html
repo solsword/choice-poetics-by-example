@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Peter Mawhorter and Arnav Jhala">
+  <title>Choice Poetics</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="reveal.js/css/reveal.css">
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="reveal.js/css/theme/black.css" id="theme">
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+  <!--[if lt IE 9]>
+  <script src="reveal.js/lib/js/html5shiv.js"></script>
+  <![endif]-->
+  <link rel="stylesheet" type="text/css" href="css/colors.css">
+  <link rel="stylesheet" type="text/css" href="css/fonts.css">
+  <link rel="stylesheet" type="text/css" href="css/main.css">
+  <link rel="stylesheet" type="text/css" href="css/reveal-theme.css">
+  <!--script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script-->
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide">
+  <h1 class="title">Choice Poetics</h1>
+  <p class="subtitle">A Formal Approach to Narrative Choices</p>
+  <p class="author">Peter Mawhorter and <strong>Arnav Jhala</strong></p>
+  <p class="date">Wednesday May 9th, 2018</p>
+</section>
+
+<section><section id="choice-poetics" class="title-slide slide level1"><h1>Choice Poetics</h1></section><section id="choice-poetics-1" class="slide level2">
+<h2>Choice Poetics</h2>
+<div class="columns">
+<div class="column" style="width: 25%;">
+<p><img data-src="fig/cave-of-time-cover.jpg" alt="The cover of “The Cave of Time,” the first Choose Your Own Adventure book." /><span></span></p>
+</div><div class="column" style="width: 75%; vertical-align: middle;">
+<ul>
+<li>A formal framework for understanding narrative choices</li>
+<li>Concrete language for choice structures</li>
+<li>A frame that creates edge cases</li>
+</ul>
+</div>
+</div>
+<aside class="notes">
+<ul>
+<li>It focuses on discrete &amp; explicit choices</li>
+<li>It includes a process for analyzing choices mechanically</li>
+<li>Defines parts of a choice like framing, options, and outcomes</li>
+<li>If you don’t like formalism, at least it’s interesting to look at the kinds of choices that don’t fit</li>
+</ul>
+</aside>
+</section><section class="slide level2">
+
+<p><img data-src="fig/four-choices.png" alt="Screenshots from Papers Please, Cave Story, The Walking Dead, and Depression Quest showing moments when choices are made." style="width:75.0%" /><span></span></p>
+<aside class="notes">
+<ul>
+<li>These are the kinds of choices that choice poetics is focused on…</li>
+<li>5-second slide</li>
+</ul>
+</aside>
+</section><section id="choice-poetics-2" class="slide level2">
+<h2>Choice Poetics</h2>
+<p><em>“How does this choice impact the player experience?”</em></p>
+<div class="columns">
+<div class="column" style="width: 40%;">
+<p><img data-src="fig/papersplease.jpg" alt="A close-up of the approve/deny visa stamps from Papers Please, hovering over a passport." /><span></span></p>
+</div><div class="column" style="width: 60%;">
+<div style="margin: auto; text-align: center;">
+<div class="fragment fade-out" style="position: absolute;" data-fragment-index="1">
+<ul>
+<li>Agency</li>
+<li>Immersion</li>
+<li>Regret?</li>
+<li>etc.</li>
+</ul>
+</div>
+</div>
+<div class="fragment fade-in" style="position: absolute;" data-fragment-index="1">
+<ol type="1">
+<li>What are the player’s goals?</li>
+<li>What outcomes are suggested?</li>
+<li>What impacts do they have on player goals?</li>
+<li>(Afterwards) What were the actual outcomes? Their impacts?</li>
+</ol>
+</div>
+</div>
+</div>
+<aside class="notes">
+<p>(image here is just fluff; don’t dive into that choice yet) - The central question of choice poetics analysis - There are many dimensions of player experience (these are just a few examples) - Agency is the one we usually think of, but choices can impact immersion, and might also be able to offer new kinds of emotion like regret, which a non-interactive work can’t create in the same way - At a high level, these are the steps of a choice poetics analysis</p>
+</aside>
+</section></section>
+<section><section id="mass-effect" class="title-slide slide level1"><h1>Mass Effect</h1></section><section class="slide level2">
+
+<video width="100%" controls="" autoplay="true" preload="auto">
+<source src="vid/me-council-branches.mp4" type="video/mp4">
+<p>
+Your user agent does not support the HTML5 Video element.
+</p>
+</video>
+<aside class="notes">
+<p>No need to talk over the video I hope :)</p>
+<p>It runs 2:33. The next slides re-visit the final decision, where all three options lead to the same outcome.</p>
+</aside>
+</section><section id="section" class="slide level2" data-transition="slide-in fade-out">
+<h2></h2>
+<p><img data-src="fig/me-choice-framing.png" alt="Frame from the previous video where the Salarian Councilor says “Do you have anything else to add, Commander Shepard?” and there are three options available. The options read: “You won’t see the truth,” “No,” and “What’s the point?”" style="width:70.0%" /><span></span></p>
+<aside class="notes">
+<p>(next slide fades from this one)</p>
+<p>While clicking forward/back, explain that: - Two options with different text (they’re framed differently) - In-game outcome is identical - But how the player interprets the PC’s voiceover is altered by the text chosen (and we’ll come back to this) - (player doesn’t get a chance to revisit this choice without loading a save)</p>
+</aside>
+</section><section id="section-1" class="slide level2" data-transition="fade-in slide-out">
+<h2></h2>
+<p><img data-src="fig/me-choice-result.png" alt="Frame from the same video after making the choice where Commander Shepard says: “You’ve made your decision. I won’t waste my breath.”" style="width:70.0%" /><span></span></p>
+<p><span></span></p>
+</section><section id="false-choices" class="slide level2">
+<h2>False Choices</h2>
+<ul>
+<li>Multiple options, one outcome</li>
+<li>Why have a choice at all?
+<ul>
+<li>Preserve illusion of player agency?</li>
+<li>Time/money constraints?</li>
+</ul></li>
+</ul>
+<p> </p>
+<p class="small" style="text-align: left;">
+<a href="http://stephengware.com/publications/fendt2012achieving.pdf"><em>Achieving the Illusion of Agency</em></a>. Matthew W. Fendt, Brent Harrison, Stephen G. Ware, Rogelio Cardona-Rivera, and David L. Roberts. Interactive Storytelling, 2012.
+</p>
+<aside class="notes">
+<p>TODO</p>
+</aside>
+</section><section id="choice-poetic-analysis" class="slide level2">
+<h2>Choice Poetic Analysis</h2>
+<p> 1. What are the player’s goals?</p>
+<div class="columns nowrap" style="width: 100%;">
+<div class="column" style="width: 50%;">
+<ul>
+<li>Save the galaxy</li>
+<li>Become powerful</li>
+<li>Pursue romance</li>
+<li>Protect your crew</li>
+<li>Solve the mystery</li>
+</ul>
+<p class="question fragment" data-fragment-index="2">
+Diegetic
+</p>
+</div><div class="column fragment" data-fragment-index="1" style="width: 50%;">
+<ul>
+<li>Beat the game</li>
+<li>Explore all the options</li>
+<li><span class="fragment highlight-bold" data-fragment-index="3">Act out a story</span></li>
+<li>Critique the design</li>
+<li>Show off for your friend</li>
+</ul>
+<p class="question fragment" data-fragment-index="2">
+Extra-diegetic
+</p>
+</div>
+</div>
+<aside class="notes">
+<p>This slide has 3 transitions:</p>
+<ol type="1">
+<li>adds second column</li>
+<li>adds diegetic labels</li>
+<li>highlights “act out a story”</li>
+</ol>
+<p>Idea is roughly:</p>
+<p>“So here are some goals that we might imagine players would have in Mass Effect, things like saving the galaxy or pursuing a romance, but if we think about it, there are also some other goals that players might have -click-, like exploring the story or showing off for a friend. We can divide these -click- into diegetic and extra-diegetic goals, or more precisely between different modes of engagement with the game, such as power play or role play. What’s interesting in the context of this choice is this idea of role-play, however: the extra-diegetic goal of acting out a specific story through gameplay. If we think about a player that wants to portray their character as having a certain personality, then this false choice suddenly seems to have meaningful consequences. -next slide-”</p>
+</aside>
+</section><section id="choice-poetic-analysis-1" class="slide level2">
+<h2>Choice Poetic Analysis</h2>
+<div class="nowrap" style="width: 55%; text-align: left; margin: auto;">
+<ol start="2" type="1">
+<li>What outcomes are suggested?</li>
+<li>What impacts do they have?</li>
+<li>What were the actual outcomes?</li>
+</ol>
+</div>
+<div style="width: 70%; height: 0pt; margin: 12pt auto; border-bottom: 1.5pt solid black;">
+
+</div>
+<div class="fragment" style="width: 55%; text-align: left; margin: auto;">
+<ul>
+<li>No actual impact on diegetic goals<br/> (game variables are unchanged)</li>
+<li>Does impact portrayal of Shepard’s personality</li>
+</ul>
+</div>
+<aside class="notes">
+<p>We’re compressing steps quite a bit, just to focus on a single impact: the effect these choices have on role-playing.</p>
+</aside>
+</section><section class="slide level2">
+
+<p><img data-src="fig/me-choice-framing-cropped.png" alt="Frame from the previous video where the Salarian Councilor says “Do you have anything else to add, Commander Shepard?” and there are three options available. The options read: “You won’t see the truth,” “No,” and “What’s the point?”" style="width:40.0%" />            <img data-src="fig/me-choice-result-cropped.png" alt="Frame from the same video after making the choice where Commander Shepard says: “You’ve made your decision. I won’t waste my breath.”" style="width:40.0%" /></p>
+<aside class="notes">
+<p>These images again to discuss briefly how the different options portray different personalities. My take:</p>
+<p>“You won’t see the truth” -&gt; open defiance “No” -&gt; resignation “What’s the point” -&gt; passive defiance</p>
+<p>The text (never spoken by the voice actor) can be thought of as what the character is thinking as they say their spoken dialogue.</p>
+<p>To me, it’s comparable to interior monologue in a novel.</p>
+</aside>
+</section><section id="takeaways" class="slide level2">
+<h2>Takeaways</h2>
+<div class="nowrap">
+<ul>
+<li>Modes of engagement and player goals are important
+<ul>
+<li>They are personal and dynamic</li>
+<li>Designers can guess them and influence them</li>
+</ul></li>
+<li>Even “false” choices have consequences
+<ul>
+<li>Players build narratives beyond system limitations</li>
+</ul></li>
+</ul>
+</div>
+<aside class="notes">
+<p>Speaking points here are hopefully obvious</p>
+<p>The last point is just to emphasize that in ME, there are some role-playing choices that the system recognizes with Paragon/Renegade points, but even those choices that are outside that system are still valid and help give the player more control over the narrative, and it’s fine for both types of choice to coexist.</p>
+</aside>
+</section></section>
+<section><section id="papers-please" class="title-slide slide level1"><h1>Papers Please</h1></section><section class="slide level2">
+
+<p><img data-src="fig/papers-please-visa-choice.png" alt="A screenshot of Papers Please, in which a refugee pleads to be granted entry despite lacking the required permit. On the left, the approve/deny stamp hovers over the traveler’s passport, while in the center there is some text dialogue from the petitioner (shown on the left) and an interface for asking questions." style="width:80.0%" /><span></span></p>
+<aside class="notes">
+<p>A slide to describe a bit about the game, and how it forces you to make difficult choices, pitting your income + support for your family against the impulse to support desperate but possibly mendacious applicants.</p>
+<p>Explain that we’ll use this game to show off a more detailed + mechanical analysis process.</p>
+</aside>
+</section><section id="goal-analysis" class="slide level2">
+<h2>Goal Analysis</h2>
+<p> 1. What are the player’s goals?</p>
+<div style="width: 70%; height: 0pt; margin: 12pt auto; border-bottom: 1.5pt solid black;">
+
+</div>
+<div class="nowrap">
+<ul>
+<li>[highest] Feed your family.</li>
+<li>[high] Avoid the penalty for making mistakes.</li>
+<li>[high] Treat travelers ethically.</li>
+<li>[medium] Prevent dishonest travelers from gaining entry.</li>
+<li>[low] Let approved travelers through.</li>
+</ul>
+</div>
+<aside class="notes">
+<p>This slide is a bit abrupt, but you can hand-wave and say that we’re now going to use this made-up set of example goals to illustrate how this choice operates.</p>
+<p>Each goal has a priority, and provides a chance to explain a bit about the game mechanics as you go through.</p>
+</aside>
+</section><section id="likelihood-analysis" class="slide level2">
+<h2>Likelihood Analysis</h2>
+<p> 2. What outcomes are suggested?</p>
+<div class="booktable center-headers">
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><strong>Approve</strong></th>
+<th style="text-align: left;"><strong>Deny</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">[likely] ‘Mistake’ is discovered.</td>
+<td style="text-align: left;">[likely] No mistake possible.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">[unknown] Refugee is saved.</td>
+<td style="text-align: left;">[unknown] Refugee will be killed.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">[unknown] Criminal gains entry.</td>
+<td style="text-align: left;">[unknown] Criminal is thwarted.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">[unlikely] Earn a credit.</td>
+<td style="text-align: left;">[likely] Earn a credit.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<aside class="notes">
+<p>This step focuses on estimating the likelihood of outcomes from the player’s perspective. Here we model a player who is uncertain whether the refugee is actually a criminal and just making up their story.</p>
+</aside>
+</section><section id="option-analysis" class="slide level2" data-transition="slide-in fade-out">
+<h2>Option Analysis</h2>
+<p> 3. What impacts do the outcomes have on player goals?</p>
+<div style="width: 70%; height: 0pt; margin: 12pt auto; border-bottom: 1.5pt solid black;">
+
+</div>
+<div class="nowrap">
+<ul>
+<li>Four broad categories:
+<ul>
+<li><span class="enables">Enables</span> and <span class="threatens">threatens</span> for uncertain effects.</li>
+<li><span class="advances">Advances</span> and <span class="hinders">hinders</span> for likely effects.</li>
+</ul></li>
+<li>Each goal/outcome pair may have multiple labels.</li>
+</ul>
+</div>
+</section><section id="option-analysis-1" class="slide level2" data-transition="fade-in fade-out">
+<h2>Option Analysis</h2>
+<p> 3. What impacts do the outcomes have on player goals?</p>
+<div class="booktable center-headers divide-rows">
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><strong>Goal</strong></th>
+<th style="text-align: left;"><strong>Approve</strong></th>
+<th style="text-align: left;"><strong>Deny</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">&lt;feed your family&gt;</td>
+<td style="text-align: left;"><span class="enables">enables</span><br/><span class="threatens">threatens</span><br/><span class="hinders">hinders</span></td>
+<td style="text-align: left;"><span class="enables">enables</span><br/><span class="advances">advances</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">&lt;avoid penalty&gt;</td>
+<td style="text-align: left;"><span class="enables">enables</span><br/><span class="threatens">threatens</span><br/><span class="hinders">hinders</span></td>
+<td style="text-align: left;"><span class="enables">enables</span><br/><span class="advances">advances</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">&lt;treat ethically&gt;</td>
+<td style="text-align: left;"><span class="enables">enables</span></td>
+<td style="text-align: left;"><span class="enables">enables</span><br/><span class="threatens">threatens</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">&lt;thwart criminals&gt;</td>
+<td style="text-align: left;"><span class="threatens">threatens</span></td>
+<td style="text-align: left;"><span class="enables">enables</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<aside class="notes">
+<p>So if we grind through evaluating all of the outcomes, we get this table for their impacts on player goals. Notice here that Deny is a clearly better option than approve: we’re a bit concerned we may not be treating someone ethically, but we aren’t sure about that, and the probable impacts to our family are obvious.</p>
+<p>But now what would the situation be like if we trusted that the petitioner was telling the truth? -next slide-</p>
+</aside>
+</section><section id="option-analysis-2" class="slide level2" data-transition="fade-in slide-out">
+<h2>Option Analysis</h2>
+<p> 3. What impacts do the outcomes have on player goals?</p>
+<div class="booktable center-headers divide-rows">
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><strong>Goal</strong></th>
+<th style="text-align: left;"><strong>Approve</strong></th>
+<th style="text-align: left;"><strong>Deny</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">&lt;feed your family&gt;</td>
+<td style="text-align: left;"><span class="enables">enables</span><br/><span class="threatens">threatens</span><br/><span class="hinders">hinders</span></td>
+<td style="text-align: left;"><span class="enables">enables</span><br/><span class="advances">advances</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">&lt;avoid penalty&gt;</td>
+<td style="text-align: left;"><span class="enables">enables</span><br/><span class="threatens">threatens</span><br/><span class="hinders">hinders</span></td>
+<td style="text-align: left;"><span class="enables">enables</span><br/><span class="advances">advances</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">&lt;treat ethically&gt;</td>
+<td style="text-align: left;"><span class="enables">enables</span><br/><span class="advances">advances</span></td>
+<td style="text-align: left;"><span class="threatens">threatens</span><br/><span class="hinders">hinders</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">&lt;thwart criminals&gt;</td>
+<td style="text-align: left;"><em>none</em></td>
+<td style="text-align: left;"><em>none</em></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div style="position: absolute; top: 50%; left: 75%; transform: rotate(-60deg); white-space: nowrap;">
+<p>↖ If we trust the applicant…</p>
+</div>
+<aside class="notes">
+<p>So these are the changes if we assume that the applicant is telling the truth about being a refugee: notice how suddenly, we have a hinders in both columns, and that arrangement is recognizable as a component of the dilemma pattern of choice structures.</p>
+<p>Of course, an classical dilemma wouldn’t have redeeming features for either option, but we can at least say that the choice has become a difficult one, which we’ll be much less comfortable making.</p>
+<p>So what this analysis tells us is that Papers Please is using a very specific choice formula as a rhetorical gesture: it is demonstrating to the player how ethical dilemmas, when seasoned with just a bit of uncertainty, can lead to complicit decisions. -next slide-</p>
+</aside>
+</section><section id="takeaways-1" class="slide level2">
+<h2>Takeaways</h2>
+<div class="nowrap">
+<ul>
+<li><strong>Dilemma</strong> + <strong>doubt</strong> = <strong>complicity</strong>
+<ul>
+<li><em>Papers Please</em> lets players engage with this directly</li>
+<li>Repeated uneasy choices build the dystopian atmosphere</li>
+</ul></li>
+<li>Detailed choice analysis can yield useful insights
+<ul>
+<li>Labeling goals × options reveals choice structure</li>
+<li>Could repeat with different imagined player goals</li>
+</ul></li>
+</ul>
+</div>
+<aside class="notes">
+<p>We don’t have time to go through the outcomes analysis for this choice, but the player never really learns in Papers Please whether the person that they let through was telling the truth or not, which is how the game maintains ambiguity about these decisions.</p>
+<p>The main point of this analysis is to show how uncertainty changes the decision landscape for our hypothetical player, and how it turns a difficult decision into an easier decision, where the best option is aligned with the interests of the (fictional) state, because the outcomes for your family are always more immediate and certain than the outcomes for the petitioners you are approving or denying.</p>
+</aside>
+</section></section>
+<section><section id="questions" class="title-slide slide level1"><h1>Questions?</h1></section></section>
+<section><section id="appendix" class="title-slide slide level1"><h1>Appendix</h1></section><section id="references" class="slide level2">
+<h2>References</h2>
+<ul>
+<li><a href="http://www.fdg2014.org/papers/fdg2014_paper_19.pdf"><em>Towards a Theory of Choice Poetics</em></a>. Peter Mawhorter, Michael Mateas, Noah Wardrip-Fruin, and Arnav Jhala. Foundations of Digital Games, 2014.</li>
+<li><a href="https://escholarship.org/uc/item/1tn22145"><em>Artificial Intelligence as a Tool for Understanding Narrative Choices</em></a>. Peter Mawhorter. Ph.D. Thesis, University of California Santa Cruz, 2016.</li>
+<li><a href="https://www.aaai.org/ocs/index.php/AIIDE/AIIDE15/paper/download/11550/11355"><em>Generating Relaxed, Obvious, and Dilemma Choices with Dunyazad</em></a>. Peter Mawhorter, Michael Mateas, and Noah Wardrip-Fruin. Artificial Intelligence and Interactive Digital Entertainment, 2015.</li>
+</ul>
+</section></section>
+    </div>
+  </div>
+
+  <script src="reveal.js/lib/js/head.min.js"></script>
+  <script src="reveal.js/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true },
+          { src: 'reveal.js/plugin/notes/notes.js', async: true }
+        ]
+      });
+    </script>
+    <script type="text/javascript">
+  Reveal.configure({
+    width: 1000,
+    height: 650
+  });
+  </script>
+    </body>
+</html>
